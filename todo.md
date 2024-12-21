@@ -44,3 +44,4 @@
 + https://marea.mk/firmware
 + https://pressappoco.it/31
 + http://kpchn.com/s/PoHJ
++ https://www.reddit.com/r/olkb/comments/zhq5w9/update_to_company_refuses_to_give_files_to/
