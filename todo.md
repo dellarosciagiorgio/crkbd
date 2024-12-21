@@ -4,7 +4,11 @@
     + cstc40
         + 40% ortholinear
             + software qmk/via to edit firmware
-                + three layers
+                + three layers 
+                    + usage
+                        1. alpha
+                        1. num & symb
+                        1. func
                     + key legend
                         + a, b, c, d
                             + a = plain
