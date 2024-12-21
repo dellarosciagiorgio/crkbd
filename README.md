@@ -1,2 +1,11 @@
 # cstc40
-personalized layout for cstc40 keyboard
+
+custom layout for cstc40 keyboard
+
+## layouts
+
+i firstly created them in [draw.io](./layouts.dio)
+
+## license
+
+under [wtfpl](./LICENSE)
