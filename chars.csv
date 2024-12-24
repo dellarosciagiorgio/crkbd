@@ -85,7 +85,6 @@ Z,uppercase z
 !,exclamation mark
 """",Double quotes
 €,euro
-¢,cent
 $,dollar
 %,per cent
 &,ampersand
@@ -134,3 +133,13 @@ ___,volume down
 ___,stop/start audio track
 ___,next audio track
 ___,previous audio track
+___,rgb next
+___,rgb previous
+___,rgb on/off
+___,rgb toggle
+___,rgb bright+
+___,rgb bright-
+___,rgb mode+
+___,rgb mode-
+___,rgb hue+
+___,rgb hue-
