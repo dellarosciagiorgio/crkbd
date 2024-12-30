@@ -1,15 +1,17 @@
 # mechanical keyboard
 
 + custom mechanical keyboard
-    + cstc40
-        + 40% ortholinear
-            + software qmk/via to edit firmware
-                + three layers 
-                    + key legend
-                        + top left = plain
-                        + top right = shift
-                        + bottom left = altgr
-                        + bottom right = shift+altgr
+    + 40% ortholinear
+        + three layers 
+            + key legend
+                + top left = plain
+                + top right = shift
+                + bottom left = altgr
+                + bottom right = shift+altgr
+        + software qmk/via to edit firmware
+        + model
+            + cstc40
+            + corne v4 2.4G
     + switches
         + 5 pins
         + heavy linear

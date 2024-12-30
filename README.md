@@ -1,6 +1,6 @@
-# cstc40
+# cstc40/corne v4
 
-custom layout for cstc40 keyboard
+custom layout for cstc40/corne v4 keyboard
 
 ## layouts
 
