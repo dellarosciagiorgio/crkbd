@@ -128,15 +128,14 @@ f9,function 9
 f10,function 10
 f11,function 11
 f12,function 12
-___,volume up
-___,volume down
 ___,stop/start audio track
 ___,next audio track
 ___,previous audio track
+___,volume up
+___,volume down
+___,rgb on/off
 ___,rgb next
 ___,rgb previous
-___,rgb on/off
-___,rgb toggle
 ___,rgb bright+
 ___,rgb bright-
 ___,rgb mode+
