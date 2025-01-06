@@ -34,6 +34,14 @@
     + keycaps
         + options
             + recycle devastator II keyboard ones
+                + casual placing
+                    + mantain rows
+                        + do not use F and J!
+                + bigger one for the two thumbs
+                    + 1.25u ctrl, alt, os
+                    + 2u + enter bs
+                    + 1.5u tab
+                    + 1.75u caps
             + blank
             + "Flat Keycaps" from PMK
             + F10 flat keys from signature plastics
