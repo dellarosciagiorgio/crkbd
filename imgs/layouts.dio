@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="TbKfJ7Vki0BNOf5y40k3" name="Page-1">
-        <mxGraphModel dx="280" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+        <mxGraphModel dx="501" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="3852" value="" style="group;fontColor=default;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="640" y="20" width="680" height="1040" as="geometry"/>
+                    <mxGeometry x="720" width="680" height="1040" as="geometry"/>
                 </mxCell>
                 <mxCell id="3849" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;strokeWidth=3;strokeColor=#000000;fontColor=default;" parent="3852" vertex="1">
                     <mxGeometry y="40" width="680" height="1000" as="geometry"/>
@@ -1060,16 +1060,16 @@
                 <mxCell id="3754" value="fn2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Cascadia Code;fontColor=default;rotation=-10;fontStyle=5;" parent="3852" vertex="1">
                     <mxGeometry x="420" y="720" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="3784" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 0 (alphas)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=default;" parent="3852" vertex="1">
+                <mxCell id="3784" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 0 (alphas)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=light-dark(#000000,#000000);" parent="3852" vertex="1">
                     <mxGeometry x="240" y="80" width="200" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="3785" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 1 (symbols)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=default;" parent="3852" vertex="1">
+                <mxCell id="3785" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 1 (symbols)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=light-dark(#000000,#000000);" parent="3852" vertex="1">
                     <mxGeometry x="240" y="320" width="200" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="3786" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 2 (numbers)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=default;" parent="3852" vertex="1">
+                <mxCell id="3786" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 2 (numbers)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=light-dark(#000000,#000000);" parent="3852" vertex="1">
                     <mxGeometry x="240" y="560" width="200" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="3787" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 3 (functions)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=default;" parent="3852" vertex="1">
+                <mxCell id="3787" value="&lt;font face=&quot;Cascadia Code&quot;&gt;&lt;span&gt;layer 3 (functions)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1;fontColor=light-dark(#000000,#000000);" parent="3852" vertex="1">
                     <mxGeometry x="240" y="800" width="200" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="3791" value="«" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Cascadia Code;fontColor=default;fontStyle=1;" parent="3852" vertex="1">
@@ -1180,11 +1180,11 @@
                 <mxCell id="3863" value="page↑&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Cascadia Code;fontColor=default;" parent="3852" vertex="1">
                     <mxGeometry x="370" y="370" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="3865" value="invert BS and fn1, and fn1 and fn2?" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="1400" y="160" width="130" height="80" as="geometry"/>
+                <mxCell id="3865" value="invert BS and fn1, and fn1 and fn2?" style="shape=note;strokeWidth=2;fontSize=14;size=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
+                    <mxGeometry x="1410" y="180" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="3866" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;then DEL repositioning too&lt;/span&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=light-dark(#000000,#FFFFFF);align=center;" parent="1" vertex="1">
-                    <mxGeometry x="1460" y="220" width="110" height="50" as="geometry"/>
+                <mxCell id="3866" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;then DEL repositioning too&lt;/span&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=light-dark(#FFFFFF,#FFFFFF);align=center;fillStyle=solid;" parent="1" vertex="1">
+                    <mxGeometry x="1440" y="220" width="110" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
