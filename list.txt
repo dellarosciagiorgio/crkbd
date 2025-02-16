@@ -5,6 +5,8 @@ ESC (escape)
 SP (space)
 CR (start of line)
 LF (end of line)
+PU (page up)
+PD (page down)
 a
 b
 c
