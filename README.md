@@ -1,4 +1,4 @@
-# crnkb
+# crkbd
 
 custom corne keyboard layout
 
