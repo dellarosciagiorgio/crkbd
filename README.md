@@ -1,6 +1,6 @@
 # crkbd
 
-custom corne keyboard layout
+custom corne italian keyboard layout
 
 ## layout
 
