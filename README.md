@@ -6,14 +6,10 @@ custom corne keyboard italian layout
 
 i first created it in [draw.io](./layout.dio), and then i used vial to edit the [keymap](./keymap.vil)
 
-**layer 0**
-![layer 0](./imgs/layer0.png)
+![layers](./layers.png)
 
-**layer 1** (fn1)
-![layer 1](./imgs/layer1.png)
-
-**layer 2** (fn2)
-![layer 2](./imgs/layer2.png)
+> [!NOTE]
+> the rounded blocks are combos
 
 ## license
 
