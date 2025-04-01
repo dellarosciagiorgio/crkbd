@@ -9,7 +9,7 @@ i first created it in [draw.io](./layout.dio), and then i used vial to edit the 
 ![layers](./layers.png)
 
 > [!NOTE]
-> the rounded blocks are combos
+> the darker blocks are combos
 
 ## license
 
